@@ -1,0 +1,123 @@
+*, *::before, *::after {
+  padding: 0;
+  margin: 0;
+}
+
+@media (min-width: 300px) {
+  .heading-h1-q {
+    font-size: 20.4px;
+    letter-spacing: 1px;
+    line-height: 23.3px;
+    border-width: 2.4px;
+    border-style: solid;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .heading-h1-q {
+    font-size: 31.4px;
+    line-height: 29.3px;
+    letter-spacing: 1px;
+    padding: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  .heading-h1-q {
+    font-size: 40.4px;
+    letter-spacing: 1px;
+    padding: 40px;
+    color: var(--bs-body-bg);
+    background: rgba(0,0,0,0.62);
+    line-height: 41.3px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
+
+.h1-s1 {
+  margin-bottom: -5px;
+  margin-top: 10px;
+}
+
+@media (min-width: 300px) {
+  .heading-h1-q {
+    font-size: 20.4px;
+    letter-spacing: 1px;
+    line-height: 23.3px;
+    border-width: 2.4px;
+    border-style: solid;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .heading-h1-q {
+    font-size: 28.4px;
+    line-height: 29.3px;
+    letter-spacing: 1px;
+    padding: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  .heading-h1-q {
+    font-size: 36.4px;
+    letter-spacing: 1px;
+    padding: 40px;
+    color: var(--bs-body-bg);
+    background: rgba(0,0,0,0.62);
+    line-height: 39.3px;
+    margin-right: 80px;
+    margin-left: 80px;
+  }
+}
+
+@media (min-width: 992px) {
+  .div-1-q {
+    position: absolute;
+  }
+}
+
+.heading-h1-q {
+  font-family: Poppins, sans-serif;
+}
+
+section {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+  .ddc-87 {
+    color: var(--bs-body-bg);
+  }
+}
+
+@media (min-width: 300px) {
+  div {
+  }
+}
+
+div {
+}
+
+img {
+}
+
+.tooltip-inner {
+  max-width: none;
+  padding: 0.25rem;
+  background-color: initial;
+  border-radius: 0.25rem;
+}
+
