@@ -1,0 +1,2854 @@
+[
+ {
+   "Level": 1,
+   "Upgrade Cost": "673"
+ },
+ {
+   "Level": 2,
+   "Upgrade Cost": "689"
+ },
+ {
+   "Level": 3,
+   "Upgrade Cost": "706"
+ },
+ {
+   "Level": 4,
+   "Upgrade Cost": "723"
+ },
+ {
+   "Level": 5,
+   "Upgrade Cost": "740"
+ },
+ {
+   "Level": 6,
+   "Upgrade Cost": "757"
+ },
+ {
+   "Level": 7,
+   "Upgrade Cost": "775"
+ },
+ {
+   "Level": 8,
+   "Upgrade Cost": "793"
+ },
+ {
+   "Level": 9,
+   "Upgrade Cost": "811"
+ },
+ {
+   "Level": 10,
+   "Upgrade Cost": "829"
+ },
+ {
+   "Level": 11,
+   "Upgrade Cost": "847"
+ },
+ {
+   "Level": 12,
+   "Upgrade Cost": "1038"
+ },
+ {
+   "Level": 13,
+   "Upgrade Cost": "1238"
+ },
+ {
+   "Level": 14,
+   "Upgrade Cost": "1445"
+ },
+ {
+   "Level": 15,
+   "Upgrade Cost": "1659"
+ },
+ {
+   "Level": 16,
+   "Upgrade Cost": "1882"
+ },
+ {
+   "Level": 17,
+   "Upgrade Cost": "2113"
+ },
+ {
+   "Level": 18,
+   "Upgrade Cost": "2353"
+ },
+ {
+   "Level": 19,
+   "Upgrade Cost": "2601"
+ },
+ {
+   "Level": 20,
+   "Upgrade Cost": "2857"
+ },
+ {
+   "Level": 21,
+   "Upgrade Cost": "3122"
+ },
+ {
+   "Level": 22,
+   "Upgrade Cost": "3395"
+ },
+ {
+   "Level": 23,
+   "Upgrade Cost": "3678"
+ },
+ {
+   "Level": 24,
+   "Upgrade Cost": "3970"
+ },
+ {
+   "Level": 25,
+   "Upgrade Cost": "4270"
+ },
+ {
+   "Level": 26,
+   "Upgrade Cost": "4580"
+ },
+ {
+   "Level": 27,
+   "Upgrade Cost": "4899"
+ },
+ {
+   "Level": 28,
+   "Upgrade Cost": "5228"
+ },
+ {
+   "Level": 29,
+   "Upgrade Cost": "5567"
+ },
+ {
+   "Level": 30,
+   "Upgrade Cost": "5915"
+ },
+ {
+   "Level": 31,
+   "Upgrade Cost": "6273"
+ },
+ {
+   "Level": 32,
+   "Upgrade Cost": "6640"
+ },
+ {
+   "Level": 33,
+   "Upgrade Cost": "7018"
+ },
+ {
+   "Level": 34,
+   "Upgrade Cost": "7407"
+ },
+ {
+   "Level": 35,
+   "Upgrade Cost": "7805"
+ },
+ {
+   "Level": 36,
+   "Upgrade Cost": "8214"
+ },
+ {
+   "Level": 37,
+   "Upgrade Cost": "8633"
+ },
+ {
+   "Level": 38,
+   "Upgrade Cost": "9064"
+ },
+ {
+   "Level": 39,
+   "Upgrade Cost": "9505"
+ },
+ {
+   "Level": 40,
+   "Upgrade Cost": "9956"
+ },
+ {
+   "Level": 41,
+   "Upgrade Cost": "10419"
+ },
+ {
+   "Level": 42,
+   "Upgrade Cost": "10893"
+ },
+ {
+   "Level": 43,
+   "Upgrade Cost": "11379"
+ },
+ {
+   "Level": 44,
+   "Upgrade Cost": "11876"
+ },
+ {
+   "Level": 45,
+   "Upgrade Cost": "12384"
+ },
+ {
+   "Level": 46,
+   "Upgrade Cost": "12904"
+ },
+ {
+   "Level": 47,
+   "Upgrade Cost": "13435"
+ },
+ {
+   "Level": 48,
+   "Upgrade Cost": "13979"
+ },
+ {
+   "Level": 49,
+   "Upgrade Cost": "14535"
+ },
+ {
+   "Level": 50,
+   "Upgrade Cost": "15102"
+ },
+ {
+   "Level": 51,
+   "Upgrade Cost": "15682"
+ },
+ {
+   "Level": 52,
+   "Upgrade Cost": "16274"
+ },
+ {
+   "Level": 53,
+   "Upgrade Cost": "16879"
+ },
+ {
+   "Level": 54,
+   "Upgrade Cost": "17497"
+ },
+ {
+   "Level": 55,
+   "Upgrade Cost": "18127"
+ },
+ {
+   "Level": 56,
+   "Upgrade Cost": "18770"
+ },
+ {
+   "Level": 57,
+   "Upgrade Cost": "19425"
+ },
+ {
+   "Level": 58,
+   "Upgrade Cost": "20094"
+ },
+ {
+   "Level": 59,
+   "Upgrade Cost": "20777"
+ },
+ {
+   "Level": 60,
+   "Upgrade Cost": "21472"
+ },
+ {
+   "Level": 61,
+   "Upgrade Cost": "22181"
+ },
+ {
+   "Level": 62,
+   "Upgrade Cost": "22903"
+ },
+ {
+   "Level": 63,
+   "Upgrade Cost": "23640"
+ },
+ {
+   "Level": 64,
+   "Upgrade Cost": "24390"
+ },
+ {
+   "Level": 65,
+   "Upgrade Cost": "25153"
+ },
+ {
+   "Level": 66,
+   "Upgrade Cost": "25931"
+ },
+ {
+   "Level": 67,
+   "Upgrade Cost": "26723"
+ },
+ {
+   "Level": 68,
+   "Upgrade Cost": "27530"
+ },
+ {
+   "Level": 69,
+   "Upgrade Cost": "28351"
+ },
+ {
+   "Level": 70,
+   "Upgrade Cost": "29186"
+ },
+ {
+   "Level": 71,
+   "Upgrade Cost": "30036"
+ },
+ {
+   "Level": 72,
+   "Upgrade Cost": "30900"
+ },
+ {
+   "Level": 73,
+   "Upgrade Cost": "31780"
+ },
+ {
+   "Level": 74,
+   "Upgrade Cost": "32675"
+ },
+ {
+   "Level": 75,
+   "Upgrade Cost": "33584"
+ },
+ {
+   "Level": 76,
+   "Upgrade Cost": "34509"
+ },
+ {
+   "Level": 77,
+   "Upgrade Cost": "35449"
+ },
+ {
+   "Level": 78,
+   "Upgrade Cost": "36405"
+ },
+ {
+   "Level": 79,
+   "Upgrade Cost": "37377"
+ },
+ {
+   "Level": 80,
+   "Upgrade Cost": "38364"
+ },
+ {
+   "Level": 81,
+   "Upgrade Cost": "39367"
+ },
+ {
+   "Level": 82,
+   "Upgrade Cost": "40385"
+ },
+ {
+   "Level": 83,
+   "Upgrade Cost": "41420"
+ },
+ {
+   "Level": 84,
+   "Upgrade Cost": "42472"
+ },
+ {
+   "Level": 85,
+   "Upgrade Cost": "43539"
+ },
+ {
+   "Level": 86,
+   "Upgrade Cost": "44623"
+ },
+ {
+   "Level": 87,
+   "Upgrade Cost": "45723"
+ },
+ {
+   "Level": 88,
+   "Upgrade Cost": "46841"
+ },
+ {
+   "Level": 89,
+   "Upgrade Cost": "47975"
+ },
+ {
+   "Level": 90,
+   "Upgrade Cost": "49125"
+ },
+ {
+   "Level": 91,
+   "Upgrade Cost": "50293"
+ },
+ {
+   "Level": 92,
+   "Upgrade Cost": "51478"
+ },
+ {
+   "Level": 93,
+   "Upgrade Cost": "52681"
+ },
+ {
+   "Level": 94,
+   "Upgrade Cost": "53901"
+ },
+ {
+   "Level": 95,
+   "Upgrade Cost": "55138"
+ },
+ {
+   "Level": 96,
+   "Upgrade Cost": "56393"
+ },
+ {
+   "Level": 97,
+   "Upgrade Cost": "57665"
+ },
+ {
+   "Level": 98,
+   "Upgrade Cost": "58956"
+ },
+ {
+   "Level": 99,
+   "Upgrade Cost": "60265"
+ },
+ {
+   "Level": 100,
+   "Upgrade Cost": "61591"
+ },
+ {
+   "Level": 101,
+   "Upgrade Cost": "62936"
+ },
+ {
+   "Level": 102,
+   "Upgrade Cost": "64299"
+ },
+ {
+   "Level": 103,
+   "Upgrade Cost": "65681"
+ },
+ {
+   "Level": 104,
+   "Upgrade Cost": "67082"
+ },
+ {
+   "Level": 105,
+   "Upgrade Cost": "68501"
+ },
+ {
+   "Level": 106,
+   "Upgrade Cost": "69939"
+ },
+ {
+   "Level": 107,
+   "Upgrade Cost": "71395"
+ },
+ {
+   "Level": 108,
+   "Upgrade Cost": "72871"
+ },
+ {
+   "Level": 109,
+   "Upgrade Cost": "74367"
+ },
+ {
+   "Level": 110,
+   "Upgrade Cost": "75881"
+ },
+ {
+   "Level": 111,
+   "Upgrade Cost": "77415"
+ },
+ {
+   "Level": 112,
+   "Upgrade Cost": "78968"
+ },
+ {
+   "Level": 113,
+   "Upgrade Cost": "80542"
+ },
+ {
+   "Level": 114,
+   "Upgrade Cost": "82135"
+ },
+ {
+   "Level": 115,
+   "Upgrade Cost": "83747"
+ },
+ {
+   "Level": 116,
+   "Upgrade Cost": "85380"
+ },
+ {
+   "Level": 117,
+   "Upgrade Cost": "87033"
+ },
+ {
+   "Level": 118,
+   "Upgrade Cost": "88707"
+ },
+ {
+   "Level": 119,
+   "Upgrade Cost": "90401"
+ },
+ {
+   "Level": 120,
+   "Upgrade Cost": "92115"
+ },
+ {
+   "Level": 121,
+   "Upgrade Cost": "93850"
+ },
+ {
+   "Level": 122,
+   "Upgrade Cost": "95605"
+ },
+ {
+   "Level": 123,
+   "Upgrade Cost": "97382"
+ },
+ {
+   "Level": 124,
+   "Upgrade Cost": "99180"
+ },
+ {
+   "Level": 125,
+   "Upgrade Cost": "100998"
+ },
+ {
+   "Level": 126,
+   "Upgrade Cost": "102838"
+ },
+ {
+   "Level": 127,
+   "Upgrade Cost": "104699"
+ },
+ {
+   "Level": 128,
+   "Upgrade Cost": "106582"
+ },
+ {
+   "Level": 129,
+   "Upgrade Cost": "108487"
+ },
+ {
+   "Level": 130,
+   "Upgrade Cost": "110413"
+ },
+ {
+   "Level": 131,
+   "Upgrade Cost": "112361"
+ },
+ {
+   "Level": 132,
+   "Upgrade Cost": "114330"
+ },
+ {
+   "Level": 133,
+   "Upgrade Cost": "116322"
+ },
+ {
+   "Level": 134,
+   "Upgrade Cost": "118337"
+ },
+ {
+   "Level": 135,
+   "Upgrade Cost": "120373"
+ },
+ {
+   "Level": 136,
+   "Upgrade Cost": "122432"
+ },
+ {
+   "Level": 137,
+   "Upgrade Cost": "124513"
+ },
+ {
+   "Level": 138,
+   "Upgrade Cost": "126618"
+ },
+ {
+   "Level": 139,
+   "Upgrade Cost": "128745"
+ },
+ {
+   "Level": 140,
+   "Upgrade Cost": "130894"
+ },
+ {
+   "Level": 141,
+   "Upgrade Cost": "133067"
+ },
+ {
+   "Level": 142,
+   "Upgrade Cost": "135263"
+ },
+ {
+   "Level": 143,
+   "Upgrade Cost": "137483"
+ },
+ {
+   "Level": 144,
+   "Upgrade Cost": "139726"
+ },
+ {
+   "Level": 145,
+   "Upgrade Cost": "141992"
+ },
+ {
+   "Level": 146,
+   "Upgrade Cost": "144282"
+ },
+ {
+   "Level": 147,
+   "Upgrade Cost": "146595"
+ },
+ {
+   "Level": 148,
+   "Upgrade Cost": "148933"
+ },
+ {
+   "Level": 149,
+   "Upgrade Cost": "151295"
+ },
+ {
+   "Level": 150,
+   "Upgrade Cost": "153680"
+ },
+ {
+   "Level": 151,
+   "Upgrade Cost": "156090"
+ },
+ {
+   "Level": 152,
+   "Upgrade Cost": "158524"
+ },
+ {
+   "Level": 153,
+   "Upgrade Cost": "160983"
+ },
+ {
+   "Level": 154,
+   "Upgrade Cost": "163467"
+ },
+ {
+   "Level": 155,
+   "Upgrade Cost": "165975"
+ },
+ {
+   "Level": 156,
+   "Upgrade Cost": "168508"
+ },
+ {
+   "Level": 157,
+   "Upgrade Cost": "171065"
+ },
+ {
+   "Level": 158,
+   "Upgrade Cost": "173648"
+ },
+ {
+   "Level": 159,
+   "Upgrade Cost": "176257"
+ },
+ {
+   "Level": 160,
+   "Upgrade Cost": "178890"
+ },
+ {
+   "Level": 161,
+   "Upgrade Cost": "181549"
+ },
+ {
+   "Level": 162,
+   "Upgrade Cost": "184233"
+ },
+ {
+   "Level": 163,
+   "Upgrade Cost": "186944"
+ },
+ {
+   "Level": 164,
+   "Upgrade Cost": "189680"
+ },
+ {
+   "Level": 165,
+   "Upgrade Cost": "192441"
+ },
+ {
+   "Level": 166,
+   "Upgrade Cost": "195229"
+ },
+ {
+   "Level": 167,
+   "Upgrade Cost": "198043"
+ },
+ {
+   "Level": 168,
+   "Upgrade Cost": "200884"
+ },
+ {
+   "Level": 169,
+   "Upgrade Cost": "203751"
+ },
+ {
+   "Level": 170,
+   "Upgrade Cost": "206644"
+ },
+ {
+   "Level": 171,
+   "Upgrade Cost": "209564"
+ },
+ {
+   "Level": 172,
+   "Upgrade Cost": "212510"
+ },
+ {
+   "Level": 173,
+   "Upgrade Cost": "215484"
+ },
+ {
+   "Level": 174,
+   "Upgrade Cost": "218485"
+ },
+ {
+   "Level": 175,
+   "Upgrade Cost": "221512"
+ },
+ {
+   "Level": 176,
+   "Upgrade Cost": "224567"
+ },
+ {
+   "Level": 177,
+   "Upgrade Cost": "227649"
+ },
+ {
+   "Level": 178,
+   "Upgrade Cost": "230759"
+ },
+ {
+   "Level": 179,
+   "Upgrade Cost": "233897"
+ },
+ {
+   "Level": 180,
+   "Upgrade Cost": "237062"
+ },
+ {
+   "Level": 181,
+   "Upgrade Cost": "240255"
+ },
+ {
+   "Level": 182,
+   "Upgrade Cost": "243475"
+ },
+ {
+   "Level": 183,
+   "Upgrade Cost": "246724"
+ },
+ {
+   "Level": 184,
+   "Upgrade Cost": "250002"
+ },
+ {
+   "Level": 185,
+   "Upgrade Cost": "253307"
+ },
+ {
+   "Level": 186,
+   "Upgrade Cost": "256641"
+ },
+ {
+   "Level": 187,
+   "Upgrade Cost": "260003"
+ },
+ {
+   "Level": 188,
+   "Upgrade Cost": "263395"
+ },
+ {
+   "Level": 189,
+   "Upgrade Cost": "266815"
+ },
+ {
+   "Level": 190,
+   "Upgrade Cost": "270263"
+ },
+ {
+   "Level": 191,
+   "Upgrade Cost": "273741"
+ },
+ {
+   "Level": 192,
+   "Upgrade Cost": "277248"
+ },
+ {
+   "Level": 193,
+   "Upgrade Cost": "280785"
+ },
+ {
+   "Level": 194,
+   "Upgrade Cost": "284351"
+ },
+ {
+   "Level": 195,
+   "Upgrade Cost": "287946"
+ },
+ {
+   "Level": 196,
+   "Upgrade Cost": "291571"
+ },
+ {
+   "Level": 197,
+   "Upgrade Cost": "295225"
+ },
+ {
+   "Level": 198,
+   "Upgrade Cost": "298910"
+ },
+ {
+   "Level": 199,
+   "Upgrade Cost": "302625"
+ },
+ {
+   "Level": 200,
+   "Upgrade Cost": "306369"
+ },
+ {
+   "Level": 201,
+   "Upgrade Cost": "310144"
+ },
+ {
+   "Level": 202,
+   "Upgrade Cost": "313949"
+ },
+ {
+   "Level": 203,
+   "Upgrade Cost": "317785"
+ },
+ {
+   "Level": 204,
+   "Upgrade Cost": "321652"
+ },
+ {
+   "Level": 205,
+   "Upgrade Cost": "325549"
+ },
+ {
+   "Level": 206,
+   "Upgrade Cost": "329477"
+ },
+ {
+   "Level": 207,
+   "Upgrade Cost": "333435"
+ },
+ {
+   "Level": 208,
+   "Upgrade Cost": "337425"
+ },
+ {
+   "Level": 209,
+   "Upgrade Cost": "341447"
+ },
+ {
+   "Level": 210,
+   "Upgrade Cost": "345499"
+ },
+ {
+   "Level": 211,
+   "Upgrade Cost": "349583"
+ },
+ {
+   "Level": 212,
+   "Upgrade Cost": "353698"
+ },
+ {
+   "Level": 213,
+   "Upgrade Cost": "357846"
+ },
+ {
+   "Level": 214,
+   "Upgrade Cost": "362025"
+ },
+ {
+   "Level": 215,
+   "Upgrade Cost": "366235"
+ },
+ {
+   "Level": 216,
+   "Upgrade Cost": "370478"
+ },
+ {
+   "Level": 217,
+   "Upgrade Cost": "374753"
+ },
+ {
+   "Level": 218,
+   "Upgrade Cost": "379061"
+ },
+ {
+   "Level": 219,
+   "Upgrade Cost": "383401"
+ },
+ {
+   "Level": 220,
+   "Upgrade Cost": "387773"
+ },
+ {
+   "Level": 221,
+   "Upgrade Cost": "392178"
+ },
+ {
+   "Level": 222,
+   "Upgrade Cost": "396615"
+ },
+ {
+   "Level": 223,
+   "Upgrade Cost": "401086"
+ },
+ {
+   "Level": 224,
+   "Upgrade Cost": "405590"
+ },
+ {
+   "Level": 225,
+   "Upgrade Cost": "410126"
+ },
+ {
+   "Level": 226,
+   "Upgrade Cost": "414696"
+ },
+ {
+   "Level": 227,
+   "Upgrade Cost": "419299"
+ },
+ {
+   "Level": 228,
+   "Upgrade Cost": "423936"
+ },
+ {
+   "Level": 229,
+   "Upgrade Cost": "428607"
+ },
+ {
+   "Level": 230,
+   "Upgrade Cost": "433311"
+ },
+ {
+   "Level": 231,
+   "Upgrade Cost": "438049"
+ },
+ {
+   "Level": 232,
+   "Upgrade Cost": "442820"
+ },
+ {
+   "Level": 233,
+   "Upgrade Cost": "447626"
+ },
+ {
+   "Level": 234,
+   "Upgrade Cost": "452467"
+ },
+ {
+   "Level": 235,
+   "Upgrade Cost": "457341"
+ },
+ {
+   "Level": 236,
+   "Upgrade Cost": "462250"
+ },
+ {
+   "Level": 237,
+   "Upgrade Cost": "467193"
+ },
+ {
+   "Level": 238,
+   "Upgrade Cost": "472172"
+ },
+ {
+   "Level": 239,
+   "Upgrade Cost": "477185"
+ },
+ {
+   "Level": 240,
+   "Upgrade Cost": "482232"
+ },
+ {
+   "Level": 241,
+   "Upgrade Cost": "487315"
+ },
+ {
+   "Level": 242,
+   "Upgrade Cost": "492433"
+ },
+ {
+   "Level": 243,
+   "Upgrade Cost": "497587"
+ },
+ {
+   "Level": 244,
+   "Upgrade Cost": "502776"
+ },
+ {
+   "Level": 245,
+   "Upgrade Cost": "508000"
+ },
+ {
+   "Level": 246,
+   "Upgrade Cost": "513260"
+ },
+ {
+   "Level": 247,
+   "Upgrade Cost": "518555"
+ },
+ {
+   "Level": 248,
+   "Upgrade Cost": "523887"
+ },
+ {
+   "Level": 249,
+   "Upgrade Cost": "529255"
+ },
+ {
+   "Level": 250,
+   "Upgrade Cost": "534658"
+ },
+ {
+   "Level": 251,
+   "Upgrade Cost": "540098"
+ },
+ {
+   "Level": 252,
+   "Upgrade Cost": "545574"
+ },
+ {
+   "Level": 253,
+   "Upgrade Cost": "551087"
+ },
+ {
+   "Level": 254,
+   "Upgrade Cost": "556637"
+ },
+ {
+   "Level": 255,
+   "Upgrade Cost": "562223"
+ },
+ {
+   "Level": 256,
+   "Upgrade Cost": "567846"
+ },
+ {
+   "Level": 257,
+   "Upgrade Cost": "573505"
+ },
+ {
+   "Level": 258,
+   "Upgrade Cost": "579202"
+ },
+ {
+   "Level": 259,
+   "Upgrade Cost": "584937"
+ },
+ {
+   "Level": 260,
+   "Upgrade Cost": "590708"
+ },
+ {
+   "Level": 261,
+   "Upgrade Cost": "596517"
+ },
+ {
+   "Level": 262,
+   "Upgrade Cost": "602363"
+ },
+ {
+   "Level": 263,
+   "Upgrade Cost": "608248"
+ },
+ {
+   "Level": 264,
+   "Upgrade Cost": "614170"
+ },
+ {
+   "Level": 265,
+   "Upgrade Cost": "620129"
+ },
+ {
+   "Level": 266,
+   "Upgrade Cost": "626127"
+ },
+ {
+   "Level": 267,
+   "Upgrade Cost": "632163"
+ },
+ {
+   "Level": 268,
+   "Upgrade Cost": "638238"
+ },
+ {
+   "Level": 269,
+   "Upgrade Cost": "644351"
+ },
+ {
+   "Level": 270,
+   "Upgrade Cost": "650502"
+ },
+ {
+   "Level": 271,
+   "Upgrade Cost": "656692"
+ },
+ {
+   "Level": 272,
+   "Upgrade Cost": "662920"
+ },
+ {
+   "Level": 273,
+   "Upgrade Cost": "669188"
+ },
+ {
+   "Level": 274,
+   "Upgrade Cost": "675495"
+ },
+ {
+   "Level": 275,
+   "Upgrade Cost": "681840"
+ },
+ {
+   "Level": 276,
+   "Upgrade Cost": "688225"
+ },
+ {
+   "Level": 277,
+   "Upgrade Cost": "694649"
+ },
+ {
+   "Level": 278,
+   "Upgrade Cost": "701113"
+ },
+ {
+   "Level": 279,
+   "Upgrade Cost": "707617"
+ },
+ {
+   "Level": 280,
+   "Upgrade Cost": "714160"
+ },
+ {
+   "Level": 281,
+   "Upgrade Cost": "720743"
+ },
+ {
+   "Level": 282,
+   "Upgrade Cost": "727365"
+ },
+ {
+   "Level": 283,
+   "Upgrade Cost": "734028"
+ },
+ {
+   "Level": 284,
+   "Upgrade Cost": "740732"
+ },
+ {
+   "Level": 285,
+   "Upgrade Cost": "747475"
+ },
+ {
+   "Level": 286,
+   "Upgrade Cost": "754259"
+ },
+ {
+   "Level": 287,
+   "Upgrade Cost": "761083"
+ },
+ {
+   "Level": 288,
+   "Upgrade Cost": "767949"
+ },
+ {
+   "Level": 289,
+   "Upgrade Cost": "774855"
+ },
+ {
+   "Level": 290,
+   "Upgrade Cost": "781801"
+ },
+ {
+   "Level": 291,
+   "Upgrade Cost": "788789"
+ },
+ {
+   "Level": 292,
+   "Upgrade Cost": "795818"
+ },
+ {
+   "Level": 293,
+   "Upgrade Cost": "802889"
+ },
+ {
+   "Level": 294,
+   "Upgrade Cost": "810001"
+ },
+ {
+   "Level": 295,
+   "Upgrade Cost": "817154"
+ },
+ {
+   "Level": 296,
+   "Upgrade Cost": "824349"
+ },
+ {
+   "Level": 297,
+   "Upgrade Cost": "831585"
+ },
+ {
+   "Level": 298,
+   "Upgrade Cost": "838864"
+ },
+ {
+   "Level": 299,
+   "Upgrade Cost": "846185"
+ },
+ {
+   "Level": 300,
+   "Upgrade Cost": "853547"
+ },
+ {
+   "Level": 301,
+   "Upgrade Cost": "860952"
+ },
+ {
+   "Level": 302,
+   "Upgrade Cost": "868399"
+ },
+ {
+   "Level": 303,
+   "Upgrade Cost": "875889"
+ },
+ {
+   "Level": 304,
+   "Upgrade Cost": "883422"
+ },
+ {
+   "Level": 305,
+   "Upgrade Cost": "890997"
+ },
+ {
+   "Level": 306,
+   "Upgrade Cost": "898615"
+ },
+ {
+   "Level": 307,
+   "Upgrade Cost": "906275"
+ },
+ {
+   "Level": 308,
+   "Upgrade Cost": "913979"
+ },
+ {
+   "Level": 309,
+   "Upgrade Cost": "921727"
+ },
+ {
+   "Level": 310,
+   "Upgrade Cost": "929517"
+ },
+ {
+   "Level": 311,
+   "Upgrade Cost": "937351"
+ },
+ {
+   "Level": 312,
+   "Upgrade Cost": "945228"
+ },
+ {
+   "Level": 313,
+   "Upgrade Cost": "953150"
+ },
+ {
+   "Level": 314,
+   "Upgrade Cost": "961115"
+ },
+ {
+   "Level": 315,
+   "Upgrade Cost": "969123"
+ },
+ {
+   "Level": 316,
+   "Upgrade Cost": "977176"
+ },
+ {
+   "Level": 317,
+   "Upgrade Cost": "985273"
+ },
+ {
+   "Level": 318,
+   "Upgrade Cost": "993415"
+ },
+ {
+   "Level": 319,
+   "Upgrade Cost": "1001601"
+ },
+ {
+   "Level": 320,
+   "Upgrade Cost": "1009831"
+ },
+ {
+   "Level": 321,
+   "Upgrade Cost": "1018106"
+ },
+ {
+   "Level": 322,
+   "Upgrade Cost": "1026425"
+ },
+ {
+   "Level": 323,
+   "Upgrade Cost": "1034790"
+ },
+ {
+   "Level": 324,
+   "Upgrade Cost": "1043200"
+ },
+ {
+   "Level": 325,
+   "Upgrade Cost": "1051654"
+ },
+ {
+   "Level": 326,
+   "Upgrade Cost": "1060154"
+ },
+ {
+   "Level": 327,
+   "Upgrade Cost": "1068699"
+ },
+ {
+   "Level": 328,
+   "Upgrade Cost": "1077290"
+ },
+ {
+   "Level": 329,
+   "Upgrade Cost": "1085927"
+ },
+ {
+   "Level": 330,
+   "Upgrade Cost": "1094609"
+ },
+ {
+   "Level": 331,
+   "Upgrade Cost": "1103337"
+ },
+ {
+   "Level": 332,
+   "Upgrade Cost": "1112110"
+ },
+ {
+   "Level": 333,
+   "Upgrade Cost": "1120930"
+ },
+ {
+   "Level": 334,
+   "Upgrade Cost": "1129797"
+ },
+ {
+   "Level": 335,
+   "Upgrade Cost": "1138709"
+ },
+ {
+   "Level": 336,
+   "Upgrade Cost": "1147668"
+ },
+ {
+   "Level": 337,
+   "Upgrade Cost": "1156673"
+ },
+ {
+   "Level": 338,
+   "Upgrade Cost": "1165726"
+ },
+ {
+   "Level": 339,
+   "Upgrade Cost": "1174825"
+ },
+ {
+   "Level": 340,
+   "Upgrade Cost": "1183970"
+ },
+ {
+   "Level": 341,
+   "Upgrade Cost": "1193163"
+ },
+ {
+   "Level": 342,
+   "Upgrade Cost": "1202403"
+ },
+ {
+   "Level": 343,
+   "Upgrade Cost": "1211691"
+ },
+ {
+   "Level": 344,
+   "Upgrade Cost": "1221026"
+ },
+ {
+   "Level": 345,
+   "Upgrade Cost": "1230408"
+ },
+ {
+   "Level": 346,
+   "Upgrade Cost": "1239838"
+ },
+ {
+   "Level": 347,
+   "Upgrade Cost": "1249315"
+ },
+ {
+   "Level": 348,
+   "Upgrade Cost": "1258841"
+ },
+ {
+   "Level": 349,
+   "Upgrade Cost": "1268415"
+ },
+ {
+   "Level": 350,
+   "Upgrade Cost": "1278036"
+ },
+ {
+   "Level": 351,
+   "Upgrade Cost": "1287706"
+ },
+ {
+   "Level": 352,
+   "Upgrade Cost": "1297424"
+ },
+ {
+   "Level": 353,
+   "Upgrade Cost": "1307191"
+ },
+ {
+   "Level": 354,
+   "Upgrade Cost": "1317007"
+ },
+ {
+   "Level": 355,
+   "Upgrade Cost": "1326871"
+ },
+ {
+   "Level": 356,
+   "Upgrade Cost": "1336784"
+ },
+ {
+   "Level": 357,
+   "Upgrade Cost": "1346745"
+ },
+ {
+   "Level": 358,
+   "Upgrade Cost": "1356756"
+ },
+ {
+   "Level": 359,
+   "Upgrade Cost": "1366817"
+ },
+ {
+   "Level": 360,
+   "Upgrade Cost": "1376926"
+ },
+ {
+   "Level": 361,
+   "Upgrade Cost": "1387085"
+ },
+ {
+   "Level": 362,
+   "Upgrade Cost": "1397293"
+ },
+ {
+   "Level": 363,
+   "Upgrade Cost": "1407552"
+ },
+ {
+   "Level": 364,
+   "Upgrade Cost": "1417860"
+ },
+ {
+   "Level": 365,
+   "Upgrade Cost": "1428217"
+ },
+ {
+   "Level": 366,
+   "Upgrade Cost": "1438625"
+ },
+ {
+   "Level": 367,
+   "Upgrade Cost": "1449083"
+ },
+ {
+   "Level": 368,
+   "Upgrade Cost": "1459592"
+ },
+ {
+   "Level": 369,
+   "Upgrade Cost": "1470151"
+ },
+ {
+   "Level": 370,
+   "Upgrade Cost": "1480760"
+ },
+ {
+   "Level": 371,
+   "Upgrade Cost": "1491420"
+ },
+ {
+   "Level": 372,
+   "Upgrade Cost": "1502130"
+ },
+ {
+   "Level": 373,
+   "Upgrade Cost": "1512892"
+ },
+ {
+   "Level": 374,
+   "Upgrade Cost": "1523705"
+ },
+ {
+   "Level": 375,
+   "Upgrade Cost": "1534568"
+ },
+ {
+   "Level": 376,
+   "Upgrade Cost": "1545483"
+ },
+ {
+   "Level": 377,
+   "Upgrade Cost": "1556449"
+ },
+ {
+   "Level": 378,
+   "Upgrade Cost": "1567467"
+ },
+ {
+   "Level": 379,
+   "Upgrade Cost": "1578537"
+ },
+ {
+   "Level": 380,
+   "Upgrade Cost": "1589658"
+ },
+ {
+   "Level": 381,
+   "Upgrade Cost": "1600831"
+ },
+ {
+   "Level": 382,
+   "Upgrade Cost": "1612055"
+ },
+ {
+   "Level": 383,
+   "Upgrade Cost": "1623332"
+ },
+ {
+   "Level": 384,
+   "Upgrade Cost": "1634662"
+ },
+ {
+   "Level": 385,
+   "Upgrade Cost": "1646043"
+ },
+ {
+   "Level": 386,
+   "Upgrade Cost": "1657477"
+ },
+ {
+   "Level": 387,
+   "Upgrade Cost": "1668963"
+ },
+ {
+   "Level": 388,
+   "Upgrade Cost": "1680503"
+ },
+ {
+   "Level": 389,
+   "Upgrade Cost": "1692095"
+ },
+ {
+   "Level": 390,
+   "Upgrade Cost": "1703739"
+ },
+ {
+   "Level": 391,
+   "Upgrade Cost": "1715437"
+ },
+ {
+   "Level": 392,
+   "Upgrade Cost": "1727188"
+ },
+ {
+   "Level": 393,
+   "Upgrade Cost": "1738993"
+ },
+ {
+   "Level": 394,
+   "Upgrade Cost": "1750851"
+ },
+ {
+   "Level": 395,
+   "Upgrade Cost": "1762762"
+ },
+ {
+   "Level": 396,
+   "Upgrade Cost": "1774727"
+ },
+ {
+   "Level": 397,
+   "Upgrade Cost": "1786745"
+ },
+ {
+   "Level": 398,
+   "Upgrade Cost": "1798818"
+ },
+ {
+   "Level": 399,
+   "Upgrade Cost": "1810945"
+ },
+ {
+   "Level": 400,
+   "Upgrade Cost": "1823125"
+ },
+ {
+   "Level": 401,
+   "Upgrade Cost": "1835360"
+ },
+ {
+   "Level": 402,
+   "Upgrade Cost": "1847649"
+ },
+ {
+   "Level": 403,
+   "Upgrade Cost": "1859993"
+ },
+ {
+   "Level": 404,
+   "Upgrade Cost": "1872392"
+ },
+ {
+   "Level": 405,
+   "Upgrade Cost": "1884845"
+ },
+ {
+   "Level": 406,
+   "Upgrade Cost": "1897353"
+ },
+ {
+   "Level": 407,
+   "Upgrade Cost": "1909915"
+ },
+ {
+   "Level": 408,
+   "Upgrade Cost": "1922533"
+ },
+ {
+   "Level": 409,
+   "Upgrade Cost": "1935207"
+ },
+ {
+   "Level": 410,
+   "Upgrade Cost": "1947935"
+ },
+ {
+   "Level": 411,
+   "Upgrade Cost": "1960719"
+ },
+ {
+   "Level": 412,
+   "Upgrade Cost": "1973558"
+ },
+ {
+   "Level": 413,
+   "Upgrade Cost": "1986454"
+ },
+ {
+   "Level": 414,
+   "Upgrade Cost": "1999405"
+ },
+ {
+   "Level": 415,
+   "Upgrade Cost": "2012411"
+ },
+ {
+   "Level": 416,
+   "Upgrade Cost": "2025474"
+ },
+ {
+   "Level": 417,
+   "Upgrade Cost": "2038593"
+ },
+ {
+   "Level": 418,
+   "Upgrade Cost": "2051769"
+ },
+ {
+   "Level": 419,
+   "Upgrade Cost": "2065001"
+ },
+ {
+   "Level": 420,
+   "Upgrade Cost": "2078289"
+ },
+ {
+   "Level": 421,
+   "Upgrade Cost": "2091634"
+ },
+ {
+   "Level": 422,
+   "Upgrade Cost": "2105035"
+ },
+ {
+   "Level": 423,
+   "Upgrade Cost": "2118494"
+ },
+ {
+   "Level": 424,
+   "Upgrade Cost": "2132010"
+ },
+ {
+   "Level": 425,
+   "Upgrade Cost": "2145582"
+ },
+ {
+   "Level": 426,
+   "Upgrade Cost": "2159212"
+ },
+ {
+   "Level": 427,
+   "Upgrade Cost": "2172899"
+ },
+ {
+   "Level": 428,
+   "Upgrade Cost": "2186644"
+ },
+ {
+   "Level": 429,
+   "Upgrade Cost": "2200447"
+ },
+ {
+   "Level": 430,
+   "Upgrade Cost": "2214307"
+ },
+ {
+   "Level": 431,
+   "Upgrade Cost": "2228225"
+ },
+ {
+   "Level": 432,
+   "Upgrade Cost": "2242200"
+ },
+ {
+   "Level": 433,
+   "Upgrade Cost": "2256234"
+ },
+ {
+   "Level": 434,
+   "Upgrade Cost": "2270327"
+ },
+ {
+   "Level": 435,
+   "Upgrade Cost": "2284477"
+ },
+ {
+   "Level": 436,
+   "Upgrade Cost": "2298686"
+ },
+ {
+   "Level": 437,
+   "Upgrade Cost": "2312953"
+ },
+ {
+   "Level": 438,
+   "Upgrade Cost": "2327280"
+ },
+ {
+   "Level": 439,
+   "Upgrade Cost": "2341665"
+ },
+ {
+   "Level": 440,
+   "Upgrade Cost": "2356108"
+ },
+ {
+   "Level": 441,
+   "Upgrade Cost": "2370611"
+ },
+ {
+   "Level": 442,
+   "Upgrade Cost": "2385173"
+ },
+ {
+   "Level": 443,
+   "Upgrade Cost": "2399795"
+ },
+ {
+   "Level": 444,
+   "Upgrade Cost": "2414476"
+ },
+ {
+   "Level": 445,
+   "Upgrade Cost": "2429216"
+ },
+ {
+   "Level": 446,
+   "Upgrade Cost": "2444016"
+ },
+ {
+   "Level": 447,
+   "Upgrade Cost": "2458875"
+ },
+ {
+   "Level": 448,
+   "Upgrade Cost": "2473795"
+ },
+ {
+   "Level": 449,
+   "Upgrade Cost": "2488775"
+ },
+ {
+   "Level": 450,
+   "Upgrade Cost": "2503814"
+ },
+ {
+   "Level": 451,
+   "Upgrade Cost": "2518914"
+ },
+ {
+   "Level": 452,
+   "Upgrade Cost": "2534074"
+ },
+ {
+   "Level": 453,
+   "Upgrade Cost": "2549295"
+ },
+ {
+   "Level": 454,
+   "Upgrade Cost": "2564577"
+ },
+ {
+   "Level": 455,
+   "Upgrade Cost": "2579919"
+ },
+ {
+   "Level": 456,
+   "Upgrade Cost": "2595322"
+ },
+ {
+   "Level": 457,
+   "Upgrade Cost": "2610785"
+ },
+ {
+   "Level": 458,
+   "Upgrade Cost": "2626310"
+ },
+ {
+   "Level": 459,
+   "Upgrade Cost": "2641897"
+ },
+ {
+   "Level": 460,
+   "Upgrade Cost": "2657544"
+ },
+ {
+   "Level": 461,
+   "Upgrade Cost": "2673253"
+ },
+ {
+   "Level": 462,
+   "Upgrade Cost": "2689023"
+ },
+ {
+   "Level": 463,
+   "Upgrade Cost": "2704856"
+ },
+ {
+   "Level": 464,
+   "Upgrade Cost": "2720750"
+ },
+ {
+   "Level": 465,
+   "Upgrade Cost": "2736705"
+ },
+ {
+   "Level": 466,
+   "Upgrade Cost": "2752723"
+ },
+ {
+   "Level": 467,
+   "Upgrade Cost": "2768803"
+ },
+ {
+   "Level": 468,
+   "Upgrade Cost": "2784946"
+ },
+ {
+   "Level": 469,
+   "Upgrade Cost": "2801151"
+ },
+ {
+   "Level": 470,
+   "Upgrade Cost": "2817418"
+ },
+ {
+   "Level": 471,
+   "Upgrade Cost": "2833748"
+ },
+ {
+   "Level": 472,
+   "Upgrade Cost": "2850140"
+ },
+ {
+   "Level": 473,
+   "Upgrade Cost": "2866596"
+ },
+ {
+   "Level": 474,
+   "Upgrade Cost": "2883115"
+ },
+ {
+   "Level": 475,
+   "Upgrade Cost": "2899696"
+ },
+ {
+   "Level": 476,
+   "Upgrade Cost": "2916341"
+ },
+ {
+   "Level": 477,
+   "Upgrade Cost": "2933049"
+ },
+ {
+   "Level": 478,
+   "Upgrade Cost": "2949821"
+ },
+ {
+   "Level": 479,
+   "Upgrade Cost": "2966657"
+ },
+ {
+   "Level": 480,
+   "Upgrade Cost": "2983556"
+ },
+ {
+   "Level": 481,
+   "Upgrade Cost": "3000519"
+ },
+ {
+   "Level": 482,
+   "Upgrade Cost": "3017545"
+ },
+ {
+   "Level": 483,
+   "Upgrade Cost": "3034636"
+ },
+ {
+   "Level": 484,
+   "Upgrade Cost": "3051792"
+ },
+ {
+   "Level": 485,
+   "Upgrade Cost": "3069011"
+ },
+ {
+   "Level": 486,
+   "Upgrade Cost": "3086295"
+ },
+ {
+   "Level": 487,
+   "Upgrade Cost": "3103643"
+ },
+ {
+   "Level": 488,
+   "Upgrade Cost": "3121057"
+ },
+ {
+   "Level": 489,
+   "Upgrade Cost": "3138535"
+ },
+ {
+   "Level": 490,
+   "Upgrade Cost": "3156077"
+ },
+ {
+   "Level": 491,
+   "Upgrade Cost": "3173685"
+ },
+ {
+   "Level": 492,
+   "Upgrade Cost": "3191358"
+ },
+ {
+   "Level": 493,
+   "Upgrade Cost": "3209097"
+ },
+ {
+   "Level": 494,
+   "Upgrade Cost": "3226901"
+ },
+ {
+   "Level": 495,
+   "Upgrade Cost": "3244770"
+ },
+ {
+   "Level": 496,
+   "Upgrade Cost": "3262705"
+ },
+ {
+   "Level": 497,
+   "Upgrade Cost": "3280705"
+ },
+ {
+   "Level": 498,
+   "Upgrade Cost": "3298772"
+ },
+ {
+   "Level": 499,
+   "Upgrade Cost": "3316905"
+ },
+ {
+   "Level": 500,
+   "Upgrade Cost": "3335103"
+ },
+ {
+   "Level": 501,
+   "Upgrade Cost": "3353368"
+ },
+ {
+   "Level": 502,
+   "Upgrade Cost": "3371699"
+ },
+ {
+   "Level": 503,
+   "Upgrade Cost": "3390097"
+ },
+ {
+   "Level": 504,
+   "Upgrade Cost": "3408562"
+ },
+ {
+   "Level": 505,
+   "Upgrade Cost": "3427093"
+ },
+ {
+   "Level": 506,
+   "Upgrade Cost": "3445691"
+ },
+ {
+   "Level": 507,
+   "Upgrade Cost": "3464355"
+ },
+ {
+   "Level": 508,
+   "Upgrade Cost": "3483087"
+ },
+ {
+   "Level": 509,
+   "Upgrade Cost": "3501887"
+ },
+ {
+   "Level": 510,
+   "Upgrade Cost": "3520753"
+ },
+ {
+   "Level": 511,
+   "Upgrade Cost": "3539687"
+ },
+ {
+   "Level": 512,
+   "Upgrade Cost": "3558688"
+ },
+ {
+   "Level": 513,
+   "Upgrade Cost": "3577758"
+ },
+ {
+   "Level": 514,
+   "Upgrade Cost": "3596895"
+ },
+ {
+   "Level": 515,
+   "Upgrade Cost": "3616099"
+ },
+ {
+   "Level": 516,
+   "Upgrade Cost": "3635372"
+ },
+ {
+   "Level": 517,
+   "Upgrade Cost": "3654713"
+ },
+ {
+   "Level": 518,
+   "Upgrade Cost": "3674123"
+ },
+ {
+   "Level": 519,
+   "Upgrade Cost": "3693601"
+ },
+ {
+   "Level": 520,
+   "Upgrade Cost": "3713147"
+ },
+ {
+   "Level": 521,
+   "Upgrade Cost": "3732762"
+ },
+ {
+   "Level": 522,
+   "Upgrade Cost": "3752445"
+ },
+ {
+   "Level": 523,
+   "Upgrade Cost": "3772198"
+ },
+ {
+   "Level": 524,
+   "Upgrade Cost": "3792020"
+ },
+ {
+   "Level": 525,
+   "Upgrade Cost": "3811910"
+ },
+ {
+   "Level": 526,
+   "Upgrade Cost": "3831870"
+ },
+ {
+   "Level": 527,
+   "Upgrade Cost": "3851899"
+ },
+ {
+   "Level": 528,
+   "Upgrade Cost": "3871998"
+ },
+ {
+   "Level": 529,
+   "Upgrade Cost": "3892167"
+ },
+ {
+   "Level": 530,
+   "Upgrade Cost": "3912405"
+ },
+ {
+   "Level": 531,
+   "Upgrade Cost": "3932713"
+ },
+ {
+   "Level": 532,
+   "Upgrade Cost": "3953090"
+ },
+ {
+   "Level": 533,
+   "Upgrade Cost": "3973538"
+ },
+ {
+   "Level": 534,
+   "Upgrade Cost": "3994057"
+ },
+ {
+   "Level": 535,
+   "Upgrade Cost": "4014645"
+ },
+ {
+   "Level": 536,
+   "Upgrade Cost": "4035304"
+ },
+ {
+   "Level": 537,
+   "Upgrade Cost": "4056033"
+ },
+ {
+   "Level": 538,
+   "Upgrade Cost": "4076834"
+ },
+ {
+   "Level": 539,
+   "Upgrade Cost": "4097705"
+ },
+ {
+   "Level": 540,
+   "Upgrade Cost": "4118646"
+ },
+ {
+   "Level": 541,
+   "Upgrade Cost": "4139659"
+ },
+ {
+   "Level": 542,
+   "Upgrade Cost": "4160743"
+ },
+ {
+   "Level": 543,
+   "Upgrade Cost": "4181899"
+ },
+ {
+   "Level": 544,
+   "Upgrade Cost": "4203126"
+ },
+ {
+   "Level": 545,
+   "Upgrade Cost": "4224424"
+ },
+ {
+   "Level": 546,
+   "Upgrade Cost": "4245794"
+ },
+ {
+   "Level": 547,
+   "Upgrade Cost": "4267235"
+ },
+ {
+   "Level": 548,
+   "Upgrade Cost": "4288749"
+ },
+ {
+   "Level": 549,
+   "Upgrade Cost": "4310335"
+ },
+ {
+   "Level": 550,
+   "Upgrade Cost": "4331992"
+ },
+ {
+   "Level": 551,
+   "Upgrade Cost": "4353722"
+ },
+ {
+   "Level": 552,
+   "Upgrade Cost": "4375524"
+ },
+ {
+   "Level": 553,
+   "Upgrade Cost": "4397399"
+ },
+ {
+   "Level": 554,
+   "Upgrade Cost": "4419347"
+ },
+ {
+   "Level": 555,
+   "Upgrade Cost": "4441367"
+ },
+ {
+   "Level": 556,
+   "Upgrade Cost": "4463460"
+ },
+ {
+   "Level": 557,
+   "Upgrade Cost": "4485625"
+ },
+ {
+   "Level": 558,
+   "Upgrade Cost": "4507864"
+ },
+ {
+   "Level": 559,
+   "Upgrade Cost": "4530177"
+ },
+ {
+   "Level": 560,
+   "Upgrade Cost": "4552562"
+ },
+ {
+   "Level": 561,
+   "Upgrade Cost": "4575021"
+ },
+ {
+   "Level": 562,
+   "Upgrade Cost": "4597553"
+ },
+ {
+   "Level": 563,
+   "Upgrade Cost": "4620160"
+ },
+ {
+   "Level": 564,
+   "Upgrade Cost": "4642840"
+ },
+ {
+   "Level": 565,
+   "Upgrade Cost": "4665593"
+ },
+ {
+   "Level": 566,
+   "Upgrade Cost": "4688421"
+ },
+ {
+   "Level": 567,
+   "Upgrade Cost": "4711323"
+ },
+ {
+   "Level": 568,
+   "Upgrade Cost": "4734300"
+ },
+ {
+   "Level": 569,
+   "Upgrade Cost": "4757351"
+ },
+ {
+   "Level": 570,
+   "Upgrade Cost": "4780476"
+ },
+ {
+   "Level": 571,
+   "Upgrade Cost": "4803676"
+ },
+ {
+   "Level": 572,
+   "Upgrade Cost": "4826950"
+ },
+ {
+   "Level": 573,
+   "Upgrade Cost": "4850300"
+ },
+ {
+   "Level": 574,
+   "Upgrade Cost": "4873725"
+ },
+ {
+   "Level": 575,
+   "Upgrade Cost": "4897224"
+ },
+ {
+   "Level": 576,
+   "Upgrade Cost": "4920799"
+ },
+ {
+   "Level": 577,
+   "Upgrade Cost": "4944449"
+ },
+ {
+   "Level": 578,
+   "Upgrade Cost": "4968175"
+ },
+ {
+   "Level": 579,
+   "Upgrade Cost": "4991977"
+ },
+ {
+   "Level": 580,
+   "Upgrade Cost": "5015854"
+ },
+ {
+   "Level": 581,
+   "Upgrade Cost": "5039807"
+ },
+ {
+   "Level": 582,
+   "Upgrade Cost": "5063835"
+ },
+ {
+   "Level": 583,
+   "Upgrade Cost": "5087940"
+ },
+ {
+   "Level": 584,
+   "Upgrade Cost": "5112122"
+ },
+ {
+   "Level": 585,
+   "Upgrade Cost": "5136379"
+ },
+ {
+   "Level": 586,
+   "Upgrade Cost": "5160713"
+ },
+ {
+   "Level": 587,
+   "Upgrade Cost": "5185123"
+ },
+ {
+   "Level": 588,
+   "Upgrade Cost": "5209611"
+ },
+ {
+   "Level": 589,
+   "Upgrade Cost": "5234175"
+ },
+ {
+   "Level": 590,
+   "Upgrade Cost": "5258815"
+ },
+ {
+   "Level": 591,
+   "Upgrade Cost": "5283533"
+ },
+ {
+   "Level": 592,
+   "Upgrade Cost": "5308328"
+ },
+ {
+   "Level": 593,
+   "Upgrade Cost": "5333201"
+ },
+ {
+   "Level": 594,
+   "Upgrade Cost": "5358151"
+ },
+ {
+   "Level": 595,
+   "Upgrade Cost": "5383178"
+ },
+ {
+   "Level": 596,
+   "Upgrade Cost": "5408283"
+ },
+ {
+   "Level": 597,
+   "Upgrade Cost": "5433465"
+ },
+ {
+   "Level": 598,
+   "Upgrade Cost": "5458726"
+ },
+ {
+   "Level": 599,
+   "Upgrade Cost": "5484065"
+ },
+ {
+   "Level": 600,
+   "Upgrade Cost": "5509481"
+ },
+ {
+   "Level": 601,
+   "Upgrade Cost": "5534976"
+ },
+ {
+   "Level": 602,
+   "Upgrade Cost": "5560549"
+ },
+ {
+   "Level": 603,
+   "Upgrade Cost": "5586201"
+ },
+ {
+   "Level": 604,
+   "Upgrade Cost": "5611932"
+ },
+ {
+   "Level": 605,
+   "Upgrade Cost": "5637741"
+ },
+ {
+   "Level": 606,
+   "Upgrade Cost": "5663629"
+ },
+ {
+   "Level": 607,
+   "Upgrade Cost": "5689595"
+ },
+ {
+   "Level": 608,
+   "Upgrade Cost": "5715641"
+ },
+ {
+   "Level": 609,
+   "Upgrade Cost": "5741767"
+ },
+ {
+   "Level": 610,
+   "Upgrade Cost": "5767971"
+ },
+ {
+   "Level": 611,
+   "Upgrade Cost": "5794255"
+ },
+ {
+   "Level": 612,
+   "Upgrade Cost": "5820618"
+ },
+ {
+   "Level": 613,
+   "Upgrade Cost": "5847062"
+ },
+ {
+   "Level": 614,
+   "Upgrade Cost": "5873585"
+ },
+ {
+   "Level": 615,
+   "Upgrade Cost": "5900187"
+ },
+ {
+   "Level": 616,
+   "Upgrade Cost": "5926870"
+ },
+ {
+   "Level": 617,
+   "Upgrade Cost": "5953633"
+ },
+ {
+   "Level": 618,
+   "Upgrade Cost": "5980477"
+ },
+ {
+   "Level": 619,
+   "Upgrade Cost": "6007401"
+ },
+ {
+   "Level": 620,
+   "Upgrade Cost": "6034405"
+ },
+ {
+   "Level": 621,
+   "Upgrade Cost": "6061490"
+ },
+ {
+   "Level": 622,
+   "Upgrade Cost": "6088655"
+ },
+ {
+   "Level": 623,
+   "Upgrade Cost": "6115902"
+ },
+ {
+   "Level": 624,
+   "Upgrade Cost": "6143230"
+ },
+ {
+   "Level": 625,
+   "Upgrade Cost": "6170638"
+ },
+ {
+   "Level": 626,
+   "Upgrade Cost": "6198128"
+ },
+ {
+   "Level": 627,
+   "Upgrade Cost": "6225699"
+ },
+ {
+   "Level": 628,
+   "Upgrade Cost": "6253352"
+ },
+ {
+   "Level": 629,
+   "Upgrade Cost": "6281087"
+ },
+ {
+   "Level": 630,
+   "Upgrade Cost": "6308903"
+ },
+ {
+   "Level": 631,
+   "Upgrade Cost": "6336801"
+ },
+ {
+   "Level": 632,
+   "Upgrade Cost": "6364780"
+ },
+ {
+   "Level": 633,
+   "Upgrade Cost": "6392842"
+ },
+ {
+   "Level": 634,
+   "Upgrade Cost": "6420987"
+ },
+ {
+   "Level": 635,
+   "Upgrade Cost": "6449213"
+ },
+ {
+   "Level": 636,
+   "Upgrade Cost": "6477522"
+ },
+ {
+   "Level": 637,
+   "Upgrade Cost": "6505913"
+ },
+ {
+   "Level": 638,
+   "Upgrade Cost": "6534388"
+ },
+ {
+   "Level": 639,
+   "Upgrade Cost": "6562945"
+ },
+ {
+   "Level": 640,
+   "Upgrade Cost": "6591584"
+ },
+ {
+   "Level": 641,
+   "Upgrade Cost": "6620307"
+ },
+ {
+   "Level": 642,
+   "Upgrade Cost": "6649113"
+ },
+ {
+   "Level": 643,
+   "Upgrade Cost": "6678003"
+ },
+ {
+   "Level": 644,
+   "Upgrade Cost": "6706976"
+ },
+ {
+   "Level": 645,
+   "Upgrade Cost": "6736032"
+ },
+ {
+   "Level": 646,
+   "Upgrade Cost": "6765172"
+ },
+ {
+   "Level": 647,
+   "Upgrade Cost": "6794395"
+ },
+ {
+   "Level": 648,
+   "Upgrade Cost": "6823703"
+ },
+ {
+   "Level": 649,
+   "Upgrade Cost": "6853095"
+ },
+ {
+   "Level": 650,
+   "Upgrade Cost": "6882570"
+ },
+ {
+   "Level": 651,
+   "Upgrade Cost": "6912130"
+ },
+ {
+   "Level": 652,
+   "Upgrade Cost": "6941774"
+ },
+ {
+   "Level": 653,
+   "Upgrade Cost": "6971503"
+ },
+ {
+   "Level": 654,
+   "Upgrade Cost": "7001317"
+ },
+ {
+   "Level": 655,
+   "Upgrade Cost": "7031215"
+ },
+ {
+   "Level": 656,
+   "Upgrade Cost": "7061198"
+ },
+ {
+   "Level": 657,
+   "Upgrade Cost": "7091265"
+ },
+ {
+   "Level": 658,
+   "Upgrade Cost": "7121418"
+ },
+ {
+   "Level": 659,
+   "Upgrade Cost": "7151657"
+ },
+ {
+   "Level": 660,
+   "Upgrade Cost": "7181980"
+ },
+ {
+   "Level": 661,
+   "Upgrade Cost": "7212389"
+ },
+ {
+   "Level": 662,
+   "Upgrade Cost": "7242883"
+ },
+ {
+   "Level": 663,
+   "Upgrade Cost": "7273464"
+ },
+ {
+   "Level": 664,
+   "Upgrade Cost": "7304130"
+ },
+ {
+   "Level": 665,
+   "Upgrade Cost": "7334881"
+ },
+ {
+   "Level": 666,
+   "Upgrade Cost": "7365719"
+ },
+ {
+   "Level": 667,
+   "Upgrade Cost": "7396643"
+ },
+ {
+   "Level": 668,
+   "Upgrade Cost": "7427654"
+ },
+ {
+   "Level": 669,
+   "Upgrade Cost": "7458751"
+ },
+ {
+   "Level": 670,
+   "Upgrade Cost": "7489934"
+ },
+ {
+   "Level": 671,
+   "Upgrade Cost": "7521204"
+ },
+ {
+   "Level": 672,
+   "Upgrade Cost": "7552560"
+ },
+ {
+   "Level": 673,
+   "Upgrade Cost": "7584004"
+ },
+ {
+   "Level": 674,
+   "Upgrade Cost": "7615535"
+ },
+ {
+   "Level": 675,
+   "Upgrade Cost": "7647152"
+ },
+ {
+   "Level": 676,
+   "Upgrade Cost": "7678857"
+ },
+ {
+   "Level": 677,
+   "Upgrade Cost": "7710649"
+ },
+ {
+   "Level": 678,
+   "Upgrade Cost": "7742529"
+ },
+ {
+   "Level": 679,
+   "Upgrade Cost": "7774497"
+ },
+ {
+   "Level": 680,
+   "Upgrade Cost": "7806552"
+ },
+ {
+   "Level": 681,
+   "Upgrade Cost": "7838695"
+ },
+ {
+   "Level": 682,
+   "Upgrade Cost": "7870925"
+ },
+ {
+   "Level": 683,
+   "Upgrade Cost": "7903244"
+ },
+ {
+   "Level": 684,
+   "Upgrade Cost": "7935652"
+ },
+ {
+   "Level": 685,
+   "Upgrade Cost": "7968147"
+ },
+ {
+   "Level": 686,
+   "Upgrade Cost": "8000731"
+ },
+ {
+   "Level": 687,
+   "Upgrade Cost": "8033403"
+ },
+ {
+   "Level": 688,
+   "Upgrade Cost": "8066165"
+ },
+ {
+   "Level": 689,
+   "Upgrade Cost": "8099015"
+ },
+ {
+   "Level": 690,
+   "Upgrade Cost": "8131953"
+ },
+ {
+   "Level": 691,
+   "Upgrade Cost": "8164981"
+ },
+ {
+   "Level": 692,
+   "Upgrade Cost": "8198098"
+ },
+ {
+   "Level": 693,
+   "Upgrade Cost": "8231305"
+ },
+ {
+   "Level": 694,
+   "Upgrade Cost": "8264601"
+ },
+ {
+   "Level": 695,
+   "Upgrade Cost": "8297986"
+ },
+ {
+   "Level": 696,
+   "Upgrade Cost": "8331461"
+ },
+ {
+   "Level": 697,
+   "Upgrade Cost": "8365025"
+ },
+ {
+   "Level": 698,
+   "Upgrade Cost": "8398680"
+ },
+ {
+   "Level": 699,
+   "Upgrade Cost": "8432425"
+ },
+ {
+   "Level": 700,
+   "Upgrade Cost": "8466259"
+ },
+ {
+   "Level": 701,
+   "Upgrade Cost": "8500184"
+ },
+ {
+   "Level": 702,
+   "Upgrade Cost": "8534199"
+ },
+ {
+   "Level": 703,
+   "Upgrade Cost": "8568305"
+ },
+ {
+   "Level": 704,
+   "Upgrade Cost": "8602502"
+ },
+ {
+   "Level": 705,
+   "Upgrade Cost": "8636789"
+ },
+ {
+   "Level": 706,
+   "Upgrade Cost": "8671167"
+ },
+ {
+   "Level": 707,
+   "Upgrade Cost": "8705635"
+ },
+ {
+   "Level": 708,
+   "Upgrade Cost": "8740195"
+ },
+ {
+   "Level": 709,
+   "Upgrade Cost": "8774847"
+ },
+ {
+   "Level": 710,
+   "Upgrade Cost": "8809589"
+ },
+ {
+   "Level": 711,
+   "Upgrade Cost": "8844423"
+ },
+ {
+   "Level": 712,
+   "Upgrade Cost": "8879348"
+ },
+ {
+   "Level": 713,
+   "Upgrade Cost": "-"
+ }
+]
